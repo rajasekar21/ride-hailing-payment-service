@@ -1,0 +1,5 @@
+node_modules/
+shared/node_modules/
+*.db
+*.log
+
